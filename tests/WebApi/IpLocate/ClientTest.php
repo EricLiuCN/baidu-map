@@ -9,10 +9,10 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\WebApi\IpLocate;
+namespace EricLiuCN\BaiduMap\Tests\WebApi\IpLocate;
 
-use HerCat\BaiduMap\Tests\TestCase;
-use HerCat\BaiduMap\WebApi\IpLocate\Client;
+use EricLiuCN\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\WebApi\IpLocate\Client;
 
 class ClientTest extends TestCase
 {

@@ -9,13 +9,13 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Kernel\Traits;
+namespace EricLiuCN\BaiduMap\Kernel\Traits;
 
-use HerCat\BaiduMap\Kernel\Contracts\Arrayable;
-use HerCat\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
-use HerCat\BaiduMap\Kernel\Exceptions\InvalidConfigException;
-use HerCat\BaiduMap\Kernel\Http\Response;
-use HerCat\BaiduMap\Kernel\Support\Collection;
+use EricLiuCN\BaiduMap\Kernel\Contracts\Arrayable;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\InvalidConfigException;
+use EricLiuCN\BaiduMap\Kernel\Http\Response;
+use EricLiuCN\BaiduMap\Kernel\Support\Collection;
 use Psr\Http\Message\ResponseInterface;
 
 /**

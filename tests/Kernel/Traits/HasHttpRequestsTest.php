@@ -9,14 +9,14 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\Kernel\Traits;
+namespace EricLiuCN\BaiduMap\Tests\Kernel\Traits;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\HandlerStack;
 use GuzzleHttp\Psr7\Response;
-use HerCat\BaiduMap\Kernel\Traits\HasHttpRequests;
-use HerCat\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\Kernel\Traits\HasHttpRequests;
+use EricLiuCN\BaiduMap\Tests\TestCase;
 
 class HasHttpRequestsTest extends TestCase
 {

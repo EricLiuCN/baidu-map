@@ -9,14 +9,14 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\Kernel;
+namespace EricLiuCN\BaiduMap\Tests\Kernel;
 
 use Closure;
 use GuzzleHttp\Psr7\Request;
 use GuzzleHttp\Psr7\Response;
-use HerCat\BaiduMap\Kernel\BaseClient;
-use HerCat\BaiduMap\Kernel\ServiceContainer;
-use HerCat\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\Kernel\BaseClient;
+use EricLiuCN\BaiduMap\Kernel\ServiceContainer;
+use EricLiuCN\BaiduMap\Tests\TestCase;
 
 class BaseClientTest extends TestCase
 {

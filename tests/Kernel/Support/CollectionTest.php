@@ -9,10 +9,10 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\Kernel\Support;
+namespace EricLiuCN\BaiduMap\Tests\Kernel\Support;
 
-use HerCat\BaiduMap\Kernel\Support\Collection;
-use HerCat\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\Kernel\Support\Collection;
+use EricLiuCN\BaiduMap\Tests\TestCase;
 
 class CollectionTest extends TestCase
 {

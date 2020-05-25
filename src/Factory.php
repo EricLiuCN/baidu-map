@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap;
+namespace EricLiuCN\BaiduMap;
 
-use HerCat\BaiduMap\Kernel\Exceptions\RuntimeException;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\RuntimeException;
 
 /**
  * Class Factory.

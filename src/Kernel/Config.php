@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Kernel;
+namespace EricLiuCN\BaiduMap\Kernel;
 
-use HerCat\BaiduMap\Kernel\Support\Collection;
+use EricLiuCN\BaiduMap\Kernel\Support\Collection;
 
 /**
  * Class Config.

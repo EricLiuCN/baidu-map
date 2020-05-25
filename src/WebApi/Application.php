@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\WebApi;
+namespace EricLiuCN\BaiduMap\WebApi;
 
-use HerCat\BaiduMap\Kernel\ServiceContainer;
+use EricLiuCN\BaiduMap\Kernel\ServiceContainer;
 
 /**
  * Class Application.

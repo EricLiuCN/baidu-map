@@ -9,15 +9,15 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Kernel;
+namespace EricLiuCN\BaiduMap\Kernel;
 
 use Closure;
 use GuzzleHttp\Exception\GuzzleException;
 use GuzzleHttp\MessageFormatter;
 use GuzzleHttp\Middleware;
-use HerCat\BaiduMap\Kernel\Http\Response;
-use HerCat\BaiduMap\Kernel\Http\StreamResponse;
-use HerCat\BaiduMap\Kernel\Traits\HasHttpRequests;
+use EricLiuCN\BaiduMap\Kernel\Http\Response;
+use EricLiuCN\BaiduMap\Kernel\Http\StreamResponse;
+use EricLiuCN\BaiduMap\Kernel\Traits\HasHttpRequests;
 use Psr\Http\Message\RequestInterface;
 use Psr\Http\Message\ResponseInterface;
 use Psr\Log\LogLevel;

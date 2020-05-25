@@ -9,13 +9,13 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\Kernel;
+namespace EricLiuCN\BaiduMap\Tests\Kernel;
 
 use GuzzleHttp\Psr7\Request;
-use HerCat\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
-use HerCat\BaiduMap\Kernel\ServiceContainer;
-use HerCat\BaiduMap\Kernel\Signature;
-use HerCat\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
+use EricLiuCN\BaiduMap\Kernel\ServiceContainer;
+use EricLiuCN\BaiduMap\Kernel\Signature;
+use EricLiuCN\BaiduMap\Tests\TestCase;
 
 class SignatureTest extends TestCase
 {

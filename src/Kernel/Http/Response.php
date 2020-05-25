@@ -9,11 +9,11 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Kernel\Http;
+namespace EricLiuCN\BaiduMap\Kernel\Http;
 
 use GuzzleHttp\Psr7\Response as GuzzleResponse;
-use HerCat\BaiduMap\Kernel\Support\Collection;
-use HerCat\BaiduMap\Kernel\Support\XML;
+use EricLiuCN\BaiduMap\Kernel\Support\Collection;
+use EricLiuCN\BaiduMap\Kernel\Support\XML;
 use Psr\Http\Message\ResponseInterface;
 
 /**

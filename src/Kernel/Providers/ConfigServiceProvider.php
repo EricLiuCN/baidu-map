@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Kernel\Providers;
+namespace EricLiuCN\BaiduMap\Kernel\Providers;
 
-use HerCat\BaiduMap\Kernel\Config;
+use EricLiuCN\BaiduMap\Kernel\Config;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 

@@ -9,11 +9,11 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Kernel\Http;
+namespace EricLiuCN\BaiduMap\Kernel\Http;
 
-use HerCat\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
-use HerCat\BaiduMap\Kernel\Exceptions\RuntimeException;
-use HerCat\BaiduMap\Kernel\Support\File;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\RuntimeException;
+use EricLiuCN\BaiduMap\Kernel\Support\File;
 
 /**
  * Class StreamResponse.

@@ -9,10 +9,10 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests;
+namespace EricLiuCN\BaiduMap\Tests;
 
-use HerCat\BaiduMap\Factory;
-use HerCat\BaiduMap\Kernel\Exceptions\RuntimeException;
+use EricLiuCN\BaiduMap\Factory;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\RuntimeException;
 
 class FactoryTest extends TestCase
 {

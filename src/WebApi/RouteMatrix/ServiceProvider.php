@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\WebApi\RouteMatrix;
+namespace EricLiuCN\BaiduMap\WebApi\RouteMatrix;
 
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;

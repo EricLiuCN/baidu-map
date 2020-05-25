@@ -9,14 +9,14 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\WebApi\BatchRequest;
+namespace EricLiuCN\BaiduMap\WebApi\BatchRequest;
 
 use GuzzleHttp\Exception\GuzzleException;
-use HerCat\BaiduMap\Kernel\BaseClient;
-use HerCat\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
-use HerCat\BaiduMap\Kernel\Exceptions\InvalidConfigException;
-use HerCat\BaiduMap\Kernel\Http\Response;
-use HerCat\BaiduMap\Kernel\Support\Collection;
+use EricLiuCN\BaiduMap\Kernel\BaseClient;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\InvalidConfigException;
+use EricLiuCN\BaiduMap\Kernel\Http\Response;
+use EricLiuCN\BaiduMap\Kernel\Support\Collection;
 use Psr\Http\Message\ResponseInterface;
 
 /**

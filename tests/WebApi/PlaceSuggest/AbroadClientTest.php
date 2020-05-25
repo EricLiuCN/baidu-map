@@ -9,11 +9,11 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\WebApi\PlaceSuggest;
+namespace EricLiuCN\BaiduMap\Tests\WebApi\PlaceSuggest;
 
-use HerCat\BaiduMap\Kernel\ServiceContainer;
-use HerCat\BaiduMap\Tests\TestCase;
-use HerCat\BaiduMap\WebApi\PlaceSuggest\AbroadClient;
+use EricLiuCN\BaiduMap\Kernel\ServiceContainer;
+use EricLiuCN\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\WebApi\PlaceSuggest\AbroadClient;
 
 class AbroadClientTest extends TestCase
 {

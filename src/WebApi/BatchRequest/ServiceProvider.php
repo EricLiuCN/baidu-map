@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\WebApi\BatchRequest;
+namespace EricLiuCN\BaiduMap\WebApi\BatchRequest;
 
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;

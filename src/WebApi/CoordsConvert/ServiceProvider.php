@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\WebApi\CoordsConvert;
+namespace EricLiuCN\BaiduMap\WebApi\CoordsConvert;
 
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;

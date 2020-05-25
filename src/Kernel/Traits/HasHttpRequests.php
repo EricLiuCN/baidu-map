@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Kernel\Traits;
+namespace EricLiuCN\BaiduMap\Kernel\Traits;
 
 use function GuzzleHttp\choose_handler;
 use GuzzleHttp\Client;

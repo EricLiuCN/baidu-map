@@ -9,12 +9,12 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\Kernel;
+namespace EricLiuCN\BaiduMap\Tests\Kernel;
 
 use GuzzleHttp\Client;
-use HerCat\BaiduMap\Kernel\Config;
-use HerCat\BaiduMap\Kernel\ServiceContainer;
-use HerCat\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\Kernel\Config;
+use EricLiuCN\BaiduMap\Kernel\ServiceContainer;
+use EricLiuCN\BaiduMap\Tests\TestCase;
 use Monolog\Logger;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;

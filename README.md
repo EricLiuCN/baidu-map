@@ -28,7 +28,7 @@ $ composer test
 ```php
 <?php
 
-use HerCat\BaiduMap\Factory;
+use EricLiuCN\BaiduMap\Factory;
 
 $config = [
     'ak' => 'your ak',

@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\WebApi\StaticMap;
+namespace EricLiuCN\BaiduMap\WebApi\StaticMap;
 
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;

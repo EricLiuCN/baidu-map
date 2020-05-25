@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Kernel\Providers;
+namespace EricLiuCN\BaiduMap\Kernel\Providers;
 
 use GuzzleHttp\Client;
 use Pimple\Container;

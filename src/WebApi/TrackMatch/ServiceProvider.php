@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\WebApi\TrackMatch;
+namespace EricLiuCN\BaiduMap\WebApi\TrackMatch;
 
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;

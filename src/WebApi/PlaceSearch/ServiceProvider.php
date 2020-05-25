@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\WebApi\PlaceSearch;
+namespace EricLiuCN\BaiduMap\WebApi\PlaceSearch;
 
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;

@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\WebApi\Timezone;
+namespace EricLiuCN\BaiduMap\WebApi\Timezone;
 
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;

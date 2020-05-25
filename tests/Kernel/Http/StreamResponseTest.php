@@ -9,12 +9,12 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\Kernel\Http;
+namespace EricLiuCN\BaiduMap\Tests\Kernel\Http;
 
-use HerCat\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
-use HerCat\BaiduMap\Kernel\Exceptions\RuntimeException;
-use HerCat\BaiduMap\Kernel\Http\StreamResponse;
-use HerCat\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\RuntimeException;
+use EricLiuCN\BaiduMap\Kernel\Http\StreamResponse;
+use EricLiuCN\BaiduMap\Tests\TestCase;
 use org\bovigo\vfs\vfsStream;
 use org\bovigo\vfs\vfsStreamDirectory;
 use org\bovigo\vfs\vfsStreamWrapper;

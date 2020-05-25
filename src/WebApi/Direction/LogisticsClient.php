@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\WebApi\Direction;
+namespace EricLiuCN\BaiduMap\WebApi\Direction;
 
-use HerCat\BaiduMap\Kernel\BaseClient;
+use EricLiuCN\BaiduMap\Kernel\BaseClient;
 
 class LogisticsClient extends BaseClient
 {

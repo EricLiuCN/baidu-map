@@ -9,12 +9,12 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\WebApi\BatchRequest;
+namespace EricLiuCN\BaiduMap\Tests\WebApi\BatchRequest;
 
-use HerCat\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
-use HerCat\BaiduMap\Kernel\ServiceContainer;
-use HerCat\BaiduMap\Tests\TestCase;
-use HerCat\BaiduMap\WebApi\BatchRequest\Client;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
+use EricLiuCN\BaiduMap\Kernel\ServiceContainer;
+use EricLiuCN\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\WebApi\BatchRequest\Client;
 
 class ClientTest extends TestCase
 {

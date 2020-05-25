@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\WebApi\IpLocate;
+namespace EricLiuCN\BaiduMap\WebApi\IpLocate;
 
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;

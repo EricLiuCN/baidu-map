@@ -9,11 +9,11 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\Kernel\Http;
+namespace EricLiuCN\BaiduMap\Tests\Kernel\Http;
 
-use HerCat\BaiduMap\Kernel\Http\Response;
-use HerCat\BaiduMap\Kernel\Support\Collection;
-use HerCat\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\Kernel\Http\Response;
+use EricLiuCN\BaiduMap\Kernel\Support\Collection;
+use EricLiuCN\BaiduMap\Tests\TestCase;
 
 class ResponseTest extends TestCase
 {

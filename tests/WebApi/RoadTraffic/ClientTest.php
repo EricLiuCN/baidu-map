@@ -9,10 +9,10 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\WebApi\RoadTraffic;
+namespace EricLiuCN\BaiduMap\Tests\WebApi\RoadTraffic;
 
-use HerCat\BaiduMap\Tests\TestCase;
-use HerCat\BaiduMap\WebApi\RoadTraffic\Client;
+use EricLiuCN\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\WebApi\RoadTraffic\Client;
 
 class ClientTest extends TestCase
 {

@@ -9,10 +9,10 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\WebApi\CoordsConvert;
+namespace EricLiuCN\BaiduMap\Tests\WebApi\CoordsConvert;
 
-use HerCat\BaiduMap\Tests\TestCase;
-use HerCat\BaiduMap\WebApi\CoordsConvert\Client;
+use EricLiuCN\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\WebApi\CoordsConvert\Client;
 
 class ClientTest extends TestCase
 {

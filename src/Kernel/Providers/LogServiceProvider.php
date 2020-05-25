@@ -9,10 +9,10 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Kernel\Providers;
+namespace EricLiuCN\BaiduMap\Kernel\Providers;
 
-use HerCat\BaiduMap\Kernel\Exceptions\Exception;
-use HerCat\BaiduMap\Kernel\ServiceContainer;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\Exception;
+use EricLiuCN\BaiduMap\Kernel\ServiceContainer;
 use Monolog\Formatter\LineFormatter;
 use Monolog\Handler\RotatingFileHandler;
 use Monolog\Logger;

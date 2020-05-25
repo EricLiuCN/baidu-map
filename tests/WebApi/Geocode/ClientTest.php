@@ -9,10 +9,10 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\WebApi\Geocode;
+namespace EricLiuCN\BaiduMap\Tests\WebApi\Geocode;
 
-use HerCat\BaiduMap\Tests\TestCase;
-use HerCat\BaiduMap\WebApi\Geocode\Client;
+use EricLiuCN\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\WebApi\Geocode\Client;
 
 class ClientTest extends TestCase
 {

@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Kernel\Contracts;
+namespace EricLiuCN\BaiduMap\Kernel\Contracts;
 
 use ArrayAccess;
 

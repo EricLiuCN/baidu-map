@@ -9,13 +9,13 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Kernel;
+namespace EricLiuCN\BaiduMap\Kernel;
 
 use GuzzleHttp\Client as HttpClient;
-use HerCat\BaiduMap\Kernel\Providers\ConfigServiceProvider;
-use HerCat\BaiduMap\Kernel\Providers\HttpClientServiceProvider;
-use HerCat\BaiduMap\Kernel\Providers\LogServiceProvider;
-use HerCat\BaiduMap\Kernel\Providers\SignatureServiceProvider;
+use EricLiuCN\BaiduMap\Kernel\Providers\ConfigServiceProvider;
+use EricLiuCN\BaiduMap\Kernel\Providers\HttpClientServiceProvider;
+use EricLiuCN\BaiduMap\Kernel\Providers\LogServiceProvider;
+use EricLiuCN\BaiduMap\Kernel\Providers\SignatureServiceProvider;
 use Monolog\Logger;
 use Pimple\Container;
 

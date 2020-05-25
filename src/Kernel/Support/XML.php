@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Kernel\Support;
+namespace EricLiuCN\BaiduMap\Kernel\Support;
 
 /**
  * Class XML.

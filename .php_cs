@@ -1,6 +1,6 @@
 <?php
 $header = <<<EOF
-This file is part of the hercat//baidu-map.
+This file is part of the EricLiuCN//baidu-map.
 
 (c) her-cat <i@her-cat.com>
 

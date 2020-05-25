@@ -9,15 +9,15 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\Kernel\Traits;
+namespace EricLiuCN\BaiduMap\Tests\Kernel\Traits;
 
-use HerCat\BaiduMap\Kernel\Contracts\Arrayable;
-use HerCat\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
-use HerCat\BaiduMap\Kernel\Exceptions\InvalidConfigException;
-use HerCat\BaiduMap\Kernel\Http\Response;
-use HerCat\BaiduMap\Kernel\Support\Collection;
-use HerCat\BaiduMap\Kernel\Traits\ResponseCastable;
-use HerCat\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\Kernel\Contracts\Arrayable;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\InvalidConfigException;
+use EricLiuCN\BaiduMap\Kernel\Http\Response;
+use EricLiuCN\BaiduMap\Kernel\Support\Collection;
+use EricLiuCN\BaiduMap\Kernel\Traits\ResponseCastable;
+use EricLiuCN\BaiduMap\Tests\TestCase;
 
 class ResponseCastableTest extends TestCase
 {
@@ -49,7 +49,7 @@ class ResponseCastableTest extends TestCase
 
         // 2.not exists
         $this->expectException(InvalidConfigException::class);
-        $this->expectExceptionMessage('Config key "response_type" classname must be an instanceof HerCat\BaiduMap\Kernel\Contracts\Arrayable');
+        $this->expectExceptionMessage('Config key "response_type" classname must be an instanceof EricLiuCN\BaiduMap\Kernel\Contracts\Arrayable');
         $cls->castResponseToType($response, 'Not\Exists\ClassName');
     }
 

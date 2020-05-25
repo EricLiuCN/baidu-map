@@ -9,10 +9,10 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Kernel;
+namespace EricLiuCN\BaiduMap\Kernel;
 
 use function GuzzleHttp\Psr7\stream_for;
-use HerCat\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\InvalidArgumentException;
 use Psr\Http\Message\RequestInterface;
 
 /**

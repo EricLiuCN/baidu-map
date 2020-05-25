@@ -9,10 +9,10 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\WebApi\TrackMatch;
+namespace EricLiuCN\BaiduMap\Tests\WebApi\TrackMatch;
 
-use HerCat\BaiduMap\Tests\TestCase;
-use HerCat\BaiduMap\WebApi\TrackMatch\Client;
+use EricLiuCN\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\WebApi\TrackMatch\Client;
 
 class ClientTest extends TestCase
 {

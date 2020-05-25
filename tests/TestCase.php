@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests;
+namespace EricLiuCN\BaiduMap\Tests;
 
-use HerCat\BaiduMap\Kernel\ServiceContainer;
+use EricLiuCN\BaiduMap\Kernel\ServiceContainer;
 use Mockery\Mock;
 use PHPUnit\Framework\TestCase as BaseTestCase;
 

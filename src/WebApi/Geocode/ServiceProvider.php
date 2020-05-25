@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\WebApi\Geocode;
+namespace EricLiuCN\BaiduMap\WebApi\Geocode;
 
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;

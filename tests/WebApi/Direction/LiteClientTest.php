@@ -9,12 +9,12 @@
  * with this source code in the file LICENSE.
  */
 
-namespace HerCat\BaiduMap\Tests\WebApi\Direction;
+namespace EricLiuCN\BaiduMap\Tests\WebApi\Direction;
 
-use HerCat\BaiduMap\Kernel\Exceptions\RuntimeException;
-use HerCat\BaiduMap\Kernel\ServiceContainer;
-use HerCat\BaiduMap\Tests\TestCase;
-use HerCat\BaiduMap\WebApi\Direction\LiteClient;
+use EricLiuCN\BaiduMap\Kernel\Exceptions\RuntimeException;
+use EricLiuCN\BaiduMap\Kernel\ServiceContainer;
+use EricLiuCN\BaiduMap\Tests\TestCase;
+use EricLiuCN\BaiduMap\WebApi\Direction\LiteClient;
 
 class LiteClientTest extends TestCase
 {
